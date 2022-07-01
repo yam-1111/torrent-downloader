@@ -16,7 +16,7 @@ jobs:
         with:
           check: "all"
           target_branch: main
-          target_repository: user/user-repo
+          target_repository: johnyjohny20/torrent-downloader
           update: true
 
       - name: Use your favorite commit&push action here
